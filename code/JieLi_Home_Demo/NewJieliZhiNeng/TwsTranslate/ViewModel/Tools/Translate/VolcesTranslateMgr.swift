@@ -22,7 +22,7 @@ class VolcesTranslateMgr: NSObject {
     var targetType = [TranslateLanguage.en]
     var isConnected = false
     typealias ResultBlock = (SpeechTranslateResponse) -> Void
-    private var socket: WebSocket?
+    private var socket: Starscream.WebSocket?
     private var resultBlock: ((Bool) -> Void)?
     private var responseBlock: ResultBlock?
     

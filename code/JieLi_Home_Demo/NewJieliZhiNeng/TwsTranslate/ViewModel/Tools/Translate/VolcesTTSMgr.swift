@@ -35,7 +35,7 @@ class VolcesTTSMgr: NSObject {
     private let accessToken = KeyAuth.ByteDance.accessToken
     private let secretKey = KeyAuth.ByteDance.secretKey
     private let wssUrl = "wss://openspeech.bytedance.com/api/v1/tts/ws_binary"
-    private var socket: WebSocket?
+    private var socket: Starscream.WebSocket?
     private var resultBlock: ((Bool) -> Void)?
     typealias ResultBlock = (Data, Bool) -> Void
     private var responseBlock: ResultBlock?
