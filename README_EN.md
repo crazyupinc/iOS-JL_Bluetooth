@@ -50,6 +50,7 @@ JieLi Bluetooth Speaker SDK is a professional Bluetooth control development plat
 
 To help developers quickly integrate the JieLi Home SDK, please read carefully before development:
 
+- 🎓 **[Onboarding Guide](./ONBOARDING.md)** - Complete beginner's tutorial (Recommended to read first!)
 - 📖 [SDK Integration Documentation](https://doc.zh-jieli.com/Apps/iOS/jielihome/zh-cn/master/index.html)
 - 📄 [Development Documentation](./docs/)
 - 🔧 [API Reference Manual](./docs/JieLiBluetoothControlSDKDevelopmentInstructions(iOS)/)

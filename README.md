@@ -50,6 +50,7 @@
 
 为了帮助开发者快速接入杰理之家SDK，请在开发前详细阅读：
 
+- 🎓 **[新手入门指南](./ONBOARDING_KR.md)** - 完整的新手上手教程（推荐首先阅读！）
 - 📖 [SDK接入文档](https://doc.zh-jieli.com/Apps/iOS/jielihome/zh-cn/master/index.html)
 - 📄 [开发说明文档](./docs/)
 - 🔧 [API参考手册](./docs/JieLiBluetoothControlSDKDevelopmentInstructions(iOS)/)
